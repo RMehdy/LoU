@@ -1,0 +1,24 @@
+Analyse Théorique :
+
+
+1: de quel type de jeu s'agit-il ?
+
+> Il s'agit d'un jeu vidéo d'action aventure en vue à la troisième
+personne, de type survival horror.
+
+-----------------------
+
+2: Après une heure de jeu, nommez les différentes mécaniques de gameplay
+rencontrées.
+
+> Mode écoute (Voir l'emplacement des ennemies au travers des murs et en surbrillance)
+> crafting (Amelioration d'équipement / soins / creation d'objet)
+> recuperation de loot (pour craft)
+
+-----------------------
+
+3: Donnez en détail l'originalité et/ou l'importance d'une/des mécanique(s) de gameplay
+qui fait que, selon vous, elle(s) est/sont principale(s) dans ce jeu.
+
+> Le mode écoute, qui est primordial dans le jeu, permettant de savoir ou ce situe les ennemies.
+Permettant au joueur de choisir un gameplay de type infiltration ou plus bourrins selon les ennemies détecté. (humain / infecté)
