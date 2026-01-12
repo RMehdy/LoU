@@ -3,6 +3,7 @@ Analyse Théorique :
 
 1: de quel type de jeu s'agit-il ?
 
+
 > Il s'agit d'un jeu vidéo d'action aventure en vue à la troisième
 personne, de type survival horror.
 
@@ -10,6 +11,7 @@ personne, de type survival horror.
 
 2: Après une heure de jeu, nommez les différentes mécaniques de gameplay
 rencontrées.
+
 
 > Mode écoute (Voir l'emplacement des ennemies au travers des murs et en surbrillance)
 > crafting (Amelioration d'équipement / soins / creation d'objet)
@@ -20,5 +22,70 @@ rencontrées.
 3: Donnez en détail l'originalité et/ou l'importance d'une/des mécanique(s) de gameplay
 qui fait que, selon vous, elle(s) est/sont principale(s) dans ce jeu.
 
+
 > Le mode écoute, qui est primordial dans le jeu, permettant de savoir ou ce situe les ennemies.
 Permettant au joueur de choisir un gameplay de type infiltration ou plus bourrins selon les ennemies détecté. (humain / infecté)
+
+-----------------------
+
+4: L'aspect musical / graphique / game design / animation / algorithmique est/sont-il(s)
+primordial/aux dans ce jeu ? Pourquoi ? On détaillera au maximum son/leurs
+importance(s).
+
+
+> Les musiques notamment présentes durant les cinématiques permettent au joueurs de faire un break de l'aspect horrifique / post-apo.
+Durant la très grande majorité du jeu les musique sont inexistante, sauf lors de moment de répit / de bonheur chez les personnages.
+
+> Les graphismes du jeu assez réaliste permettent un grande immersion. les lumières rendent les ambiances incroyable.
+
+> Le game design me semble assez linéaire. Cependant je n'en vois pas le soucis dans ce jeu, qui raconte un histoire.
+
+> Les animations mon semblais assez sympa, mais je n'ai pas été fan de l'animation de décalages de PNJ accompagnant Joel été selon moi pas très immersif, tout comme lors des combats ou les PNJ allié pouvais courir sur les ennemies sans être détecter.
+
+-----------------------
+
+5: Ce jeu vous a plu. Pourquoi ?
+
+
+> J'ai beaucoup apprécier ce premier last of us. L'univers et les personnage mon completement immergé dans le jeu, je le recommande fortement.
+Par comparaison, le second j'ai eu plus de mal, surement en raison de la mort de Joel qui ma dépité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
